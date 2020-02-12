@@ -123,7 +123,8 @@ Copy/Paste the following configuration at the bottom of the file:
   npm install  
   ng serve --open  
   ```  
-- CORS problem solving: Change "target" attribute on FEAngularProject/proxy.config.json whit alias used on "httpd.conf"
+- ###CORS problem solving: 
+    Change "target" attribute on FEAngularProject/proxy.config.json whit alias used on "httpd.conf"
 
 ### Demo access credentials  
 - Manager user:  
