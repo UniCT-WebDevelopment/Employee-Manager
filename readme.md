@@ -1,4 +1,4 @@
-# Bank Holidays Manager  
+# Employee Manager  
 The following guide will allow you to setup the develop environment under Windows Os.  
 The project uses Laravel and Angular frameworks.  
 The project can be set up in Linux Os too.  
